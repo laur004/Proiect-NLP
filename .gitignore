@@ -1,0 +1,3 @@
+processing_and_model/dataset_raw.csv
+processing_and_model/dataset_cleaned.csv
+processing_and_model/social_media_modeled.parquet
